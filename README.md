@@ -10,3 +10,7 @@
 * You can also refer to this website I wrote for how to train the YOLO model. [[HERE]](https://ithelp.ithome.com.tw/users/20120310/ironman/6372)
 ![](./readme_img/it30.png)
 ## GradCAM
+* Explainable AI for computer vision. This can be used for diagnosing model predictions, either in production or while developing models.
+* Weight the 2D activations by the average gradient.
+
+## Codes
